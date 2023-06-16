@@ -10,7 +10,7 @@ Esta aplicação foi criada para que eu possa por em prática a utilização do 
 - Vite
 - React
 - Node.js
-- Renderer
+- Render
 - Vercel
 - OpenAI
 - ChatGPT
